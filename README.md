@@ -102,7 +102,3 @@ This repository will also include solutions to some of the most commonly asked L
 ## 🤝 Contributing
 
 Contributions are welcome\! If you have a solution to a new problem or an improvement to an existing one, please feel free to create a pull request.
-
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for more details.
